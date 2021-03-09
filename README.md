@@ -1,2 +1,3 @@
 # London_crime_clusters
-Application of clustering to identify clusters of different types of criminal activity in London
+
+This notebook is meant as an introduction to hierarchical clustering and also to explore the incidence of crime across London. All work can be found in the London_Crime.ipynb file, along with access to data and references.
